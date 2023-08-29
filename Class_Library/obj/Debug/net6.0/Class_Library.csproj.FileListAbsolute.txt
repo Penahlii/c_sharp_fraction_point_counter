@@ -1,0 +1,4 @@
+C:\Users\asus\source\repos\ConsoleApp2\Class_Library\obj\Debug\net6.0\Class_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\ConsoleApp2\Class_Library\obj\Debug\net6.0\Class_Library.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\ConsoleApp2\Class_Library\obj\Debug\net6.0\Class_Library.AssemblyInfo.cs
+C:\Users\asus\source\repos\ConsoleApp2\Class_Library\obj\Debug\net6.0\Class_Library.csproj.CoreCompileInputs.cache

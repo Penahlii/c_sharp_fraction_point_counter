@@ -1,0 +1,11 @@
+C:\Users\asus\source\repos\ConsoleApp2\Class__Library\bin\Debug\net6.0\Class__Library.deps.json
+C:\Users\asus\source\repos\ConsoleApp2\Class__Library\bin\Debug\net6.0\Class__Library.dll
+C:\Users\asus\source\repos\ConsoleApp2\Class__Library\bin\Debug\net6.0\Class__Library.pdb
+C:\Users\asus\source\repos\ConsoleApp2\Class__Library\obj\Debug\net6.0\Class__Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\ConsoleApp2\Class__Library\obj\Debug\net6.0\Class__Library.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\ConsoleApp2\Class__Library\obj\Debug\net6.0\Class__Library.AssemblyInfo.cs
+C:\Users\asus\source\repos\ConsoleApp2\Class__Library\obj\Debug\net6.0\Class__Library.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ConsoleApp2\Class__Library\obj\Debug\net6.0\Class__Library.dll
+C:\Users\asus\source\repos\ConsoleApp2\Class__Library\obj\Debug\net6.0\refint\Class__Library.dll
+C:\Users\asus\source\repos\ConsoleApp2\Class__Library\obj\Debug\net6.0\Class__Library.pdb
+C:\Users\asus\source\repos\ConsoleApp2\Class__Library\obj\Debug\net6.0\ref\Class__Library.dll
